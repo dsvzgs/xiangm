@@ -1,0 +1,825 @@
+
+Generation: 0
+SEQUENCING - Avg Rule Length: 19.208 | Variance: 382.14873600000004 | Min: 1
+SEQUENCING - Avg Feature Count: 5.055 | Variance: 9.125974999999977 | Min: 1
+ROUTING - Avg Rule Length: 20.746 | Variance: 408.8274840000005 | Min: 1
+ROUTING - Avg Feature Count: 5.325 | Variance: 9.255374999999997 | Min: 1
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [1.7976931348623157E308]
+Tree 0:
+ (Min (Min (Max (Min TTIQ TTIQ) UT) (- MRT (/ TIS PT))) NTR)
+Tree 1:
+ (/ (Min (* (* (Min DT TTIQ) (- PT NIQ)) (+ (- PT UT) (/ TIS NTR))) (Min (Min (Max DT DT) (- PT TWT)) (Max (- DT NTR) (Max MRT PT)))) (/ (Max (Max (+ UT UT) (Min NIQ TTIQ)) (Min (Max WIQ PT) (Min DT MRT))) (- (+ (Max NTR DT) (* WIQ PT)) (Min (* MRT TIS) (Max TIS UT)))))
+
+Generation: 1
+SEQUENCING - Avg Rule Length: 20.456 | Variance: 394.4480640000004 | Min: 1
+SEQUENCING - Avg Feature Count: 5.28 | Variance: 9.075600000000023 | Min: 1
+ROUTING - Avg Rule Length: 24.264 | Variance: 432.85030400000073 | Min: 1
+ROUTING - Avg Feature Count: 6.003 | Variance: 8.944991000000009 | Min: 1
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [1.7976931348623157E308]
+Tree 0:
+ (- (* NIQ TWT) MRT)
+Tree 1:
+ (/ (* TTIQ (- TTIQ UT)) (Max (/ MRT MRT) (* PT DT)))
+
+Generation: 2
+SEQUENCING - Avg Rule Length: 20.87 | Variance: 381.17109999999855 | Min: 1
+SEQUENCING - Avg Feature Count: 5.433 | Variance: 9.175510999999938 | Min: 1
+ROUTING - Avg Rule Length: 25.474 | Variance: 449.46732399999854 | Min: 1
+ROUTING - Avg Feature Count: 6.161 | Variance: 8.613079000000017 | Min: 1
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [1.7976931348623157E308]
+Tree 0:
+ (Max (+ TTIQ PT) (Min WIQ TWT))
+Tree 1:
+ (- (Min (* WIQ (Max DT MRT)) (Min (- TWT UT) (+ NIQ DT))) (- (+ (/ NIQ MRT) (Min DT NIQ)) (+ (- DT UT) (+ NTR NTR))))
+
+Generation: 3
+SEQUENCING - Avg Rule Length: 21.516 | Variance: 398.2697439999988 | Min: 1
+SEQUENCING - Avg Feature Count: 5.469 | Variance: 9.113039000000027 | Min: 1
+ROUTING - Avg Rule Length: 26.724 | Variance: 433.6358239999979 | Min: 1
+ROUTING - Avg Feature Count: 6.39 | Variance: 8.283900000000026 | Min: 1
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [1.7976931348623157E308]
+Tree 0:
+ (- (+ (+ (- PT WIQ) TTIQ) (Max (+ PT DT) (* NIQ UT))) (Max (- (Min (Min NTR TTIQ) (Min NIQ UT)) TWT) (+ (/ (Max NTR NTR) (Max DT TTIQ)) (Max (Min TIS TIS) TTIQ))))
+Tree 1:
+ (Max (/ (- (+ (Max UT NTR) (* TTIQ NIQ)) (+ (- MRT UT) (Max WIQ NIQ))) (Min (+ (/ WIQ NIQ) (Max DT PT)) (Max (+ TWT TTIQ) (+ (Max (Max PT DT) (* UT PT)) (/ (+ WIQ TWT) (Min TIS NIQ)))))) (/ (Max (* (* NTR MRT) (Min DT TWT)) (Max (Max TTIQ MRT) (Max NTR MRT))) (Min (- (- TWT MRT) (Max TIS TTIQ)) (* (- NTR NIQ) (Max TIS TTIQ)))))
+
+Generation: 4
+SEQUENCING - Avg Rule Length: 21.316 | Variance: 383.2201439999996 | Min: 1
+SEQUENCING - Avg Feature Count: 5.462 | Variance: 8.802555999999994 | Min: 1
+ROUTING - Avg Rule Length: 26.538 | Variance: 425.5665560000008 | Min: 1
+ROUTING - Avg Feature Count: 6.368 | Variance: 8.240576000000003 | Min: 1
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [5148.760219244611]
+Tree 0:
+ (+ UT NTR)
+Tree 1:
+ (- (+ (+ (Min MRT MRT) (Max UT NTR)) (+ (- TWT PT) (* NIQ PT))) (- NIQ TTIQ))
+
+Generation: 5
+SEQUENCING - Avg Rule Length: 20.518 | Variance: 368.66767600000196 | Min: 1
+SEQUENCING - Avg Feature Count: 5.356 | Variance: 8.655263999999999 | Min: 1
+ROUTING - Avg Rule Length: 26.704 | Variance: 427.02438399999977 | Min: 1
+ROUTING - Avg Feature Count: 6.389 | Variance: 7.863679000000051 | Min: 1
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4411.283118795133]
+Tree 0:
+ (+ (Max (Max NIQ TTIQ) (* TTIQ NIQ)) (+ NTR PT))
+Tree 1:
+ (+ (+ TIS TTIQ) (Min PT TTIQ))
+
+Generation: 6
+SEQUENCING - Avg Rule Length: 20.674 | Variance: 345.22572400000206 | Min: 1
+SEQUENCING - Avg Feature Count: 5.454 | Variance: 8.075883999999965 | Min: 1
+ROUTING - Avg Rule Length: 26.666 | Variance: 420.30044400000094 | Min: 1
+ROUTING - Avg Feature Count: 6.405 | Variance: 7.838975000000002 | Min: 1
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4469.888866477017]
+Tree 0:
+ (Min (Min (+ (Min (Min PT (+ UT UT)) (Max UT MRT)) (+ (Max DT MRT) (/ WIQ DT))) (- MRT (- UT PT))) NTR)
+Tree 1:
+ (+ (+ (/ (* (* NIQ TTIQ) (Min TIS WIQ)) (* (* TTIQ TWT) (Min NTR NIQ))) (Max WIQ TWT)) (- (* TWT TIS) (- (Min (/ TTIQ NIQ) (Min TWT NIQ)) (* (Max DT PT) (Min TTIQ NIQ)))))
+
+Generation: 7
+SEQUENCING - Avg Rule Length: 19.542 | Variance: 316.3102359999998 | Min: 1
+SEQUENCING - Avg Feature Count: 5.343 | Variance: 8.107351000000035 | Min: 1
+ROUTING - Avg Rule Length: 26.752 | Variance: 413.8264959999995 | Min: 1
+ROUTING - Avg Feature Count: 6.494 | Variance: 7.569964000000021 | Min: 1
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3748.218626974001]
+Tree 0:
+ (Max (Max NTR NIQ) NTR)
+Tree 1:
+ (Max (Max (+ MRT UT) MRT) (+ (+ PT (* NIQ WIQ)) (- (* (Min (+ DT TIS) (/ TTIQ WIQ)) (+ (* DT UT) (* UT NIQ))) (Min WIQ WIQ))))
+
+Generation: 8
+SEQUENCING - Avg Rule Length: 19.234 | Variance: 305.3892440000003 | Min: 1
+SEQUENCING - Avg Feature Count: 5.335 | Variance: 7.594774999999948 | Min: 1
+ROUTING - Avg Rule Length: 25.72 | Variance: 353.8016000000003 | Min: 1
+ROUTING - Avg Feature Count: 6.5 | Variance: 6.712 | Min: 1
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3436.030860825856]
+Tree 0:
+ (Max (* NIQ WIQ) (Max MRT NIQ))
+Tree 1:
+ (+ (+ NIQ DT) (+ PT (/ NIQ TTIQ)))
+
+Generation: 9
+SEQUENCING - Avg Rule Length: 18.136 | Variance: 277.79750399999944 | Min: 1
+SEQUENCING - Avg Feature Count: 5.08 | Variance: 7.069599999999973 | Min: 1
+ROUTING - Avg Rule Length: 25.814 | Variance: 345.5014040000006 | Min: 1
+ROUTING - Avg Feature Count: 6.478 | Variance: 6.421515999999959 | Min: 1
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3861.857855051792]
+Tree 0:
+ (- (+ NTR MRT) (/ (Min TIS TTIQ) (+ DT NIQ)))
+Tree 1:
+ (Max (Min (- UT (+ UT NTR)) (Min (Max TTIQ MRT) (Min MRT NIQ))) (+ (Max (+ TIS (+ TTIQ PT)) (Max DT PT)) DT))
+
+Generation: 10
+SEQUENCING - Avg Rule Length: 15.826 | Variance: 213.12972400000058 | Min: 1
+SEQUENCING - Avg Feature Count: 4.69 | Variance: 6.6979000000000255 | Min: 1
+ROUTING - Avg Rule Length: 26.636 | Variance: 371.97150400000015 | Min: 1
+ROUTING - Avg Feature Count: 6.501 | Variance: 6.207999000000017 | Min: 1
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3707.2415907726563]
+Tree 0:
+ (Max MRT NIQ)
+Tree 1:
+ (+ (+ NIQ DT) (+ PT (/ NIQ TTIQ)))
+
+Generation: 11
+SEQUENCING - Avg Rule Length: 13.54 | Variance: 148.82040000000032 | Min: 1
+SEQUENCING - Avg Feature Count: 4.323 | Variance: 6.052671000000025 | Min: 1
+ROUTING - Avg Rule Length: 24.846 | Variance: 337.43628400000057 | Min: 1
+ROUTING - Avg Feature Count: 6.288 | Variance: 5.937055999999941 | Min: 1
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3727.175517384795]
+Tree 0:
+ (/ (* NIQ WIQ) (Max MRT NIQ))
+Tree 1:
+ (+ (+ NIQ DT) (+ PT (/ NIQ TTIQ)))
+
+Generation: 12
+SEQUENCING - Avg Rule Length: 12.234 | Variance: 97.43324399999959 | Min: 1
+SEQUENCING - Avg Feature Count: 4.137 | Variance: 4.722230999999982 | Min: 1
+ROUTING - Avg Rule Length: 21.184 | Variance: 286.5501439999996 | Min: 1
+ROUTING - Avg Feature Count: 5.745 | Variance: 5.929974999999995 | Min: 1
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3328.868884204395]
+Tree 0:
+ (Max UT MRT)
+Tree 1:
+ (+ NIQ (+ (+ NIQ DT) (Max DT PT)))
+
+Generation: 13
+SEQUENCING - Avg Rule Length: 11.248 | Variance: 83.2744960000002 | Min: 1
+SEQUENCING - Avg Feature Count: 3.952 | Variance: 4.263696000000057 | Min: 1
+ROUTING - Avg Rule Length: 17.804 | Variance: 212.48958400000038 | Min: 1
+ROUTING - Avg Feature Count: 5.217 | Variance: 5.513910999999976 | Min: 1
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3353.9056893675574]
+Tree 0:
+ (Min (- NTR NIQ) (/ (* (- PT TIS) (- PT PT)) TWT))
+Tree 1:
+ (+ (+ NIQ DT) (+ PT (/ NIQ TTIQ)))
+
+Generation: 14
+SEQUENCING - Avg Rule Length: 10.618 | Variance: 80.4500760000002 | Min: 1
+SEQUENCING - Avg Feature Count: 3.794 | Variance: 4.579564000000012 | Min: 1
+ROUTING - Avg Rule Length: 20.36 | Variance: 233.8863999999997 | Min: 1
+ROUTING - Avg Feature Count: 5.501 | Variance: 6.403999000000011 | Min: 1
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3075.685808479563]
+Tree 0:
+ (Min (Min (Max (Max (Max NTR NIQ) (+ UT TWT)) UT) (+ NIQ TIS)) NTR)
+Tree 1:
+ (+ (+ NIQ DT) (+ PT NIQ))
+
+Generation: 15
+SEQUENCING - Avg Rule Length: 8.58 | Variance: 58.82360000000039 | Min: 1
+SEQUENCING - Avg Feature Count: 3.321 | Variance: 3.717959000000014 | Min: 1
+ROUTING - Avg Rule Length: 15.63 | Variance: 144.52710000000005 | Min: 1
+ROUTING - Avg Feature Count: 4.505 | Variance: 4.453975000000019 | Min: 1
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3139.304911983315]
+Tree 0:
+ (Min (Min (Max UT MRT) (- MRT (- UT PT))) NTR)
+Tree 1:
+ (+ NIQ (+ (+ NIQ DT) (Max DT PT)))
+
+Generation: 16
+SEQUENCING - Avg Rule Length: 8.942 | Variance: 67.6886359999996 | Min: 1
+SEQUENCING - Avg Feature Count: 3.328 | Variance: 3.7584159999999676 | Min: 1
+ROUTING - Avg Rule Length: 12.822 | Variance: 75.48431600000066 | Min: 1
+ROUTING - Avg Feature Count: 3.771 | Variance: 2.8085590000000105 | Min: 1
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3284.18293772628]
+Tree 0:
+ (Min (Min NIQ (- MRT (- UT PT))) NTR)
+Tree 1:
+ (+ (+ NIQ DT) (+ (+ (+ NIQ DT) (+ PT (/ NIQ TTIQ))) (+ PT (+ (+ NIQ DT) (Max UT NTR)))))
+
+Generation: 17
+SEQUENCING - Avg Rule Length: 8.126 | Variance: 58.72012399999983 | Min: 1
+SEQUENCING - Avg Feature Count: 3.09 | Variance: 3.261900000000004 | Min: 1
+ROUTING - Avg Rule Length: 12.66 | Variance: 68.45240000000054 | Min: 1
+ROUTING - Avg Feature Count: 3.699 | Variance: 2.8043990000000143 | Min: 1
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3073.1586787647034]
+Tree 0:
+ (Min (Min (+ (Min (Min PT (+ UT UT)) (Max UT MRT)) (+ (Max WIQ PT) (/ WIQ DT))) (- MRT (+ NIQ (* NIQ WIQ)))) NTR)
+Tree 1:
+ (+ NIQ (+ (+ NIQ DT) (Max DT PT)))
+
+Generation: 18
+SEQUENCING - Avg Rule Length: 7.882 | Variance: 59.9220759999997 | Min: 1
+SEQUENCING - Avg Feature Count: 2.99 | Variance: 2.8599000000000383 | Min: 1
+ROUTING - Avg Rule Length: 11.256 | Variance: 44.62246399999977 | Min: 1
+ROUTING - Avg Feature Count: 3.389 | Variance: 1.7676790000000244 | Min: 1
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3220.3127772963744]
+Tree 0:
+ (Min MRT (* NIQ (+ (Max (Max UT MRT) MRT) (/ WIQ DT))))
+Tree 1:
+ (+ (+ NIQ (+ (+ NIQ (+ (+ NIQ DT) (Max DT PT))) (Max UT NTR))) (Max DT PT))
+
+Generation: 19
+SEQUENCING - Avg Rule Length: 8.398 | Variance: 54.53759599999971 | Min: 1
+SEQUENCING - Avg Feature Count: 3.078 | Variance: 2.5559160000000287 | Min: 1
+ROUTING - Avg Rule Length: 12.034 | Variance: 50.134844000000385 | Min: 1
+ROUTING - Avg Feature Count: 3.547 | Variance: 2.287790999999992 | Min: 1
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3083.1083815733427]
+Tree 0:
+ (Min (* NTR NTR) (Min (Max (Max (/ TTIQ (Min (/ TIS NTR) (* TTIQ NTR))) (Max MRT TIS)) MRT) (Max MRT NIQ)))
+Tree 1:
+ (+ NIQ (+ (+ NIQ (+ (Max UT NTR) (Max DT (Max DT PT)))) (Max DT PT)))
+
+Generation: 20
+SEQUENCING - Avg Rule Length: 8.434 | Variance: 51.91564400000022 | Min: 1
+SEQUENCING - Avg Feature Count: 3.053 | Variance: 2.3921910000000115 | Min: 1
+ROUTING - Avg Rule Length: 13.29 | Variance: 48.24790000000001 | Min: 1
+ROUTING - Avg Feature Count: 3.605 | Variance: 2.1209750000000116 | Min: 1
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3268.3385188617485]
+Tree 0:
+ (Min (Min NIQ (Min (Max UT MRT) NTR)) NTR)
+Tree 1:
+ (+ (+ NIQ (+ NIQ DT)) (Max DT PT))
+
+Generation: 21
+SEQUENCING - Avg Rule Length: 10.422 | Variance: 53.04591599999991 | Min: 1
+SEQUENCING - Avg Feature Count: 3.487 | Variance: 2.589830999999996 | Min: 1
+ROUTING - Avg Rule Length: 14.14 | Variance: 45.72440000000023 | Min: 1
+ROUTING - Avg Feature Count: 3.796 | Variance: 1.9903840000000206 | Min: 1
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3063.6337229771993]
+Tree 0:
+ (Max MRT MRT)
+Tree 1:
+ (+ (+ NIQ (+ (+ NIQ (+ (+ NIQ DT) (Max DT PT))) (Max UT NTR))) (Max DT PT))
+
+Generation: 22
+SEQUENCING - Avg Rule Length: 9.834 | Variance: 46.612444000000124 | Min: 1
+SEQUENCING - Avg Feature Count: 3.409 | Variance: 2.4657190000000098 | Min: 1
+ROUTING - Avg Rule Length: 14.834 | Variance: 45.28044400000003 | Min: 1
+ROUTING - Avg Feature Count: 4.048 | Variance: 2.0056960000000346 | Min: 1
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2985.749849567282]
+Tree 0:
+ (Min (* NTR NTR) (Min (Max (Max UT MRT) (Max UT MRT)) (Max MRT NIQ)))
+Tree 1:
+ (+ NIQ (+ (+ NIQ (+ (+ NIQ DT) (Max DT PT))) (+ NIQ (+ (+ NIQ DT) (Max DT PT)))))
+
+Generation: 23
+SEQUENCING - Avg Rule Length: 12.112 | Variance: 43.811456000000014 | Min: 1
+SEQUENCING - Avg Feature Count: 3.836 | Variance: 2.1911040000000086 | Min: 1
+ROUTING - Avg Rule Length: 15.32 | Variance: 41.34559999999978 | Min: 1
+ROUTING - Avg Feature Count: 4.127 | Variance: 1.5568709999999895 | Min: 1
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3033.588362390225]
+Tree 0:
+ (Min (* NTR NTR) (Min (Max (Max (/ TTIQ (Min (/ TIS NTR) (* TTIQ NTR))) (Max MRT UT)) MRT) (Max UT MRT)))
+Tree 1:
+ (+ (+ (+ NIQ DT) (+ (Max UT NTR) (Max DT PT))) (+ NIQ (+ (+ (+ NIQ DT) (Max DT PT)) (Max DT (+ NIQ (Max DT PT))))))
+
+Generation: 24
+SEQUENCING - Avg Rule Length: 12.668 | Variance: 47.34577599999983 | Min: 1
+SEQUENCING - Avg Feature Count: 3.854 | Variance: 2.340683999999998 | Min: 1
+ROUTING - Avg Rule Length: 16.452 | Variance: 40.243695999999886 | Min: 1
+ROUTING - Avg Feature Count: 4.454 | Variance: 1.3638839999999972 | Min: 1
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3021.66826746663]
+Tree 0:
+ (Min (Max MRT TIS) NTR)
+Tree 1:
+ (+ NIQ (+ (+ NIQ (+ (+ NIQ DT) (+ (Max UT NTR) (Max DT PT)))) (Max UT NTR)))
+
+Generation: 25
+SEQUENCING - Avg Rule Length: 13.136 | Variance: 54.81350399999998 | Min: 1
+SEQUENCING - Avg Feature Count: 3.789 | Variance: 2.556478999999986 | Min: 1
+ROUTING - Avg Rule Length: 17.31 | Variance: 48.355899999999984 | Min: 1
+ROUTING - Avg Feature Count: 4.343 | Variance: 1.4453510000000074 | Min: 1
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3013.905404577327]
+Tree 0:
+ (Min (* NTR NTR) (Max UT MRT))
+Tree 1:
+ (+ NIQ (+ NIQ (+ (+ NIQ DT) (+ (+ NIQ (+ (+ NIQ DT) (Max DT PT))) (+ NIQ (+ (Max UT NTR) (Max DT PT)))))))
+
+Generation: 26
+SEQUENCING - Avg Rule Length: 13.16 | Variance: 46.24639999999991 | Min: 1
+SEQUENCING - Avg Feature Count: 3.683 | Variance: 2.2585109999999737 | Min: 1
+ROUTING - Avg Rule Length: 18.572 | Variance: 35.264816000000394 | Min: 1
+ROUTING - Avg Feature Count: 4.766 | Variance: 0.8732439999999977 | Min: 1
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2997.864639981287]
+Tree 0:
+ (/ NTR (+ TIS PT))
+Tree 1:
+ (+ (+ NIQ (+ (+ NIQ (+ (+ NIQ DT) (Max DT PT))) (Max UT NTR))) (Max DT PT))
+
+Generation: 27
+SEQUENCING - Avg Rule Length: 13.068 | Variance: 52.59537599999994 | Min: 1
+SEQUENCING - Avg Feature Count: 3.437 | Variance: 2.0060309999999926 | Min: 1
+ROUTING - Avg Rule Length: 18.148 | Variance: 36.17809599999993 | Min: 1
+ROUTING - Avg Feature Count: 4.633 | Variance: 0.9503109999999912 | Min: 1
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3004.051524185262]
+Tree 0:
+ (Min (Min NIQ (- MRT (* (Max MRT TIS) (/ NIQ (Max MRT NIQ))))) NTR)
+Tree 1:
+ (+ NIQ (+ (+ NIQ (+ (+ NIQ DT) (Max DT PT))) (Max UT NTR)))
+
+Generation: 28
+SEQUENCING - Avg Rule Length: 13.698 | Variance: 48.78879599999993 | Min: 1
+SEQUENCING - Avg Feature Count: 3.599 | Variance: 1.938199000000001 | Min: 1
+ROUTING - Avg Rule Length: 19.486 | Variance: 58.74380399999987 | Min: 1
+ROUTING - Avg Feature Count: 4.667 | Variance: 1.080111000000017 | Min: 1
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2873.832883602345]
+Tree 0:
+ (Min (Min (Min NIQ (Max MRT TIS)) NTR) (* (* TTIQ NTR) NTR))
+Tree 1:
+ (+ NIQ (+ NIQ (+ (+ NIQ DT) (+ (+ NIQ (+ (Max UT NTR) (Max DT PT))) (+ NIQ (+ (Max UT NTR) (Max DT PT)))))))
+
+Generation: 29
+SEQUENCING - Avg Rule Length: 13.768 | Variance: 46.922176000000384 | Min: 1
+SEQUENCING - Avg Feature Count: 3.505 | Variance: 1.6439749999999849 | Min: 1
+ROUTING - Avg Rule Length: 19.748 | Variance: 56.816496000000015 | Min: 1
+ROUTING - Avg Feature Count: 4.741 | Variance: 0.8719190000000019 | Min: 1
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3020.7260845505316]
+Tree 0:
+ MRT
+Tree 1:
+ (+ (+ NIQ (+ (+ NIQ DT) (Max DT PT))) (+ NIQ (+ (Max UT NTR) (+ NIQ (+ (+ NIQ DT) (Max DT PT))))))
+
+Generation: 30
+SEQUENCING - Avg Rule Length: 14.384 | Variance: 55.87654400000064 | Min: 1
+SEQUENCING - Avg Feature Count: 3.483 | Variance: 1.629710999999991 | Min: 1
+ROUTING - Avg Rule Length: 20.934 | Variance: 56.28764400000031 | Min: 1
+ROUTING - Avg Feature Count: 4.765 | Variance: 0.8117749999999871 | Min: 1
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3074.2121539010677]
+Tree 0:
+ (Min (Min NIQ (/ NTR (+ TIS (Min (Max UT MRT) MRT)))) (Max MRT NIQ))
+Tree 1:
+ (+ (+ NIQ (+ (+ NIQ (+ NIQ DT)) (Max UT NTR))) (Max DT PT))
+
+Generation: 31
+SEQUENCING - Avg Rule Length: 15.05 | Variance: 59.777499999999726 | Min: 1
+SEQUENCING - Avg Feature Count: 3.45 | Variance: 1.5255000000000103 | Min: 1
+ROUTING - Avg Rule Length: 22.772 | Variance: 66.86001599999987 | Min: 1
+ROUTING - Avg Feature Count: 4.824 | Variance: 0.6710240000000048 | Min: 1
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2960.3685368377724]
+Tree 0:
+ (/ NTR (+ TIS (Min (Max UT MRT) MRT)))
+Tree 1:
+ (+ (+ (+ NIQ (+ (Max DT PT) (Max DT PT))) (Max UT NTR)) (+ NIQ (+ (+ (Max UT NTR) (+ NIQ (+ (+ NIQ DT) (Max DT PT)))) (Max DT (+ NIQ (Max DT PT))))))
+
+Generation: 32
+SEQUENCING - Avg Rule Length: 15.892 | Variance: 64.28433599999997 | Min: 1
+SEQUENCING - Avg Feature Count: 3.544 | Variance: 1.6980639999999987 | Min: 1
+ROUTING - Avg Rule Length: 24.598 | Variance: 74.71439600000014 | Min: 1
+ROUTING - Avg Feature Count: 4.856 | Variance: 0.6872640000000092 | Min: 1
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3087.9853500039303]
+Tree 0:
+ (Min (* NTR NTR) (Min (* NTR NTR) (Min (* NTR NTR) (+ NIQ (Min (+ NIQ (Max NTR MRT)) (* NTR NTR))))))
+Tree 1:
+ (+ NIQ (+ (+ NIQ (+ (+ NIQ DT) (+ (Max UT NTR) (Max DT PT)))) (+ NIQ (+ (+ NIQ (+ (Max UT NTR) (Max DT PT))) (Max UT NTR)))))
+
+Generation: 33
+SEQUENCING - Avg Rule Length: 16.62 | Variance: 67.81559999999995 | Min: 1
+SEQUENCING - Avg Feature Count: 3.661 | Variance: 1.7080790000000052 | Min: 1
+ROUTING - Avg Rule Length: 23.368 | Variance: 88.44057599999974 | Min: 1
+ROUTING - Avg Feature Count: 4.804 | Variance: 0.6815839999999932 | Min: 1
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2995.4759219924063]
+Tree 0:
+ (Min (Max UT MRT) (Min (Max (Max UT (* NTR NTR)) MRT) (* NTR NTR)))
+Tree 1:
+ (+ NIQ (+ (+ NIQ (Max UT NTR)) (+ NIQ (+ (+ (Max UT NTR) (Max DT PT)) (Max DT PT)))))
+
+Generation: 34
+SEQUENCING - Avg Rule Length: 16.608 | Variance: 73.38233599999988 | Min: 1
+SEQUENCING - Avg Feature Count: 3.631 | Variance: 1.8668389999999946 | Min: 1
+ROUTING - Avg Rule Length: 21.508 | Variance: 94.4459360000001 | Min: 1
+ROUTING - Avg Feature Count: 4.71 | Variance: 0.9499000000000083 | Min: 1
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3017.934259650971]
+Tree 0:
+ (Min (* NTR NTR) (Min (* (Max (* NTR WIQ) (- NIQ MRT)) (Max (- PT TIS) (/ TTIQ TIS))) (Min (* NTR NTR) (+ NIQ (Min (+ NIQ (Max NTR MRT)) (* NTR NTR))))))
+Tree 1:
+ (+ NIQ (+ (+ NIQ (Max UT NTR)) (+ (Max DT PT) NIQ)))
+
+Generation: 35
+SEQUENCING - Avg Rule Length: 16.162 | Variance: 70.69375600000008 | Min: 1
+SEQUENCING - Avg Feature Count: 3.608 | Variance: 1.9343359999999998 | Min: 1
+ROUTING - Avg Rule Length: 23.84 | Variance: 77.31840000000018 | Min: 1
+ROUTING - Avg Feature Count: 4.831 | Variance: 0.7604389999999979 | Min: 1
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3015.346466623217]
+Tree 0:
+ (+ NIQ (Min (+ NIQ (Max NTR MRT)) (* NTR NTR)))
+Tree 1:
+ (+ NIQ (+ NIQ (+ (+ NIQ (+ (Max UT NTR) (Max DT PT))) (Max DT PT))))
+
+Generation: 36
+SEQUENCING - Avg Rule Length: 17.404 | Variance: 78.34078400000004 | Min: 1
+SEQUENCING - Avg Feature Count: 3.847 | Variance: 2.1355909999999936 | Min: 1
+ROUTING - Avg Rule Length: 25.232 | Variance: 101.13817600000161 | Min: 1
+ROUTING - Avg Feature Count: 4.767 | Variance: 0.8467110000000131 | Min: 1
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2937.3247052444676]
+Tree 0:
+ (Min (Min (Min (Max UT MRT) (Max MRT MRT)) (Min (Min (* NTR NTR) (Min (Min (Max MRT TIS) (* NTR NTR)) (* NTR NTR))) (Max MRT MRT))) (Min (* NTR NTR) (Min (* NTR NTR) TTIQ)))
+Tree 1:
+ (+ NIQ (+ NIQ (+ (Max UT NTR) (Max DT PT))))
+
+Generation: 37
+SEQUENCING - Avg Rule Length: 18.54 | Variance: 65.88440000000003 | Min: 1
+SEQUENCING - Avg Feature Count: 3.938 | Variance: 2.126156000000018 | Min: 1
+ROUTING - Avg Rule Length: 24.548 | Variance: 112.81169599999994 | Min: 1
+ROUTING - Avg Feature Count: 4.866 | Variance: 0.7940440000000172 | Min: 1
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2882.0649178836743]
+Tree 0:
+ (Min (* NTR NTR) (Min (- MRT (Min (Max (Max UT MRT) MRT) (Min NIQ MRT))) (Min MRT (* NTR NTR))))
+Tree 1:
+ (+ NIQ (+ (+ NIQ (+ (Max UT NTR) (+ NIQ (+ (+ NIQ DT) (Max DT PT))))) (+ NIQ (+ (Max UT NTR) (Max DT PT)))))
+
+Generation: 38
+SEQUENCING - Avg Rule Length: 18.376 | Variance: 67.28262400000001 | Min: 1
+SEQUENCING - Avg Feature Count: 3.974 | Variance: 2.3733240000000118 | Min: 1
+ROUTING - Avg Rule Length: 25.328 | Variance: 119.94041600000028 | Min: 1
+ROUTING - Avg Feature Count: 4.925 | Variance: 0.655375000000006 | Min: 1
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2936.9106650257236]
+Tree 0:
+ (/ NTR (+ TIS (Min (Max (/ NTR (/ NIQ TIS)) (* NTR NTR)) MRT)))
+Tree 1:
+ (+ NIQ (+ (+ NIQ (Max DT PT)) (Max UT NTR)))
+
+Generation: 39
+SEQUENCING - Avg Rule Length: 19.276 | Variance: 65.70782400000016 | Min: 1
+SEQUENCING - Avg Feature Count: 4.171 | Variance: 2.377759000000001 | Min: 1
+ROUTING - Avg Rule Length: 25.63 | Variance: 97.59910000000048 | Min: 1
+ROUTING - Avg Feature Count: 4.964 | Variance: 0.5887040000000119 | Min: 1
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3046.867118611642]
+Tree 0:
+ (/ NTR (+ TIS (Min (Max (/ NTR (/ NIQ TIS)) (Min (Max NTR MRT) (Min MRT (* NTR NTR)))) MRT)))
+Tree 1:
+ (+ NIQ (+ NIQ (+ (+ NIQ (Max UT NTR)) (Max DT PT))))
+
+Generation: 40
+SEQUENCING - Avg Rule Length: 20.102 | Variance: 74.60559600000022 | Min: 1
+SEQUENCING - Avg Feature Count: 4.275 | Variance: 2.5453749999999946 | Min: 1
+ROUTING - Avg Rule Length: 27.456 | Variance: 95.81606400000041 | Min: 1
+ROUTING - Avg Feature Count: 4.965 | Variance: 0.6677749999999886 | Min: 1
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2888.10715911865]
+Tree 0:
+ (Min (* NTR NTR) (Min (- MRT (Min (Max (Max UT MRT) MRT) (Min NIQ MRT))) (Min MRT (* NTR NTR))))
+Tree 1:
+ (+ (Max DT PT) (+ NIQ (+ (Max UT NTR) (+ NIQ (+ (+ NIQ DT) (Max (Max DT PT) PT))))))
+
+Generation: 41
+SEQUENCING - Avg Rule Length: 18.642 | Variance: 70.09983599999988 | Min: 1
+SEQUENCING - Avg Feature Count: 4.017 | Variance: 2.2047110000000045 | Min: 1
+ROUTING - Avg Rule Length: 27.97 | Variance: 112.19910000000074 | Min: 1
+ROUTING - Avg Feature Count: 4.917 | Variance: 0.5321110000000009 | Min: 1
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2899.8548590830505]
+Tree 0:
+ (Min (* (Min (Min NIQ (Max UT MRT)) NTR) NTR) (Min (Min (Max MRT TIS) (Min (Max (Max UT MRT) MRT) (* NTR NTR))) MRT))
+Tree 1:
+ (+ (+ (+ (+ NIQ (/ DT (- (Max DT PT) (+ NTR UT)))) (Max DT PT)) (+ NIQ (+ NIQ (+ (Max UT NTR) (Max DT PT))))) (+ NIQ DT))
+
+Generation: 42
+SEQUENCING - Avg Rule Length: 19.052 | Variance: 66.10129599999983 | Min: 1
+SEQUENCING - Avg Feature Count: 3.965 | Variance: 2.053775000000002 | Min: 1
+ROUTING - Avg Rule Length: 26.992 | Variance: 98.31193600000017 | Min: 1
+ROUTING - Avg Feature Count: 4.863 | Variance: 0.5542310000000082 | Min: 1
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3031.412755052096]
+Tree 0:
+ (Min (Min (+ NIQ (Min (+ NIQ (Max NTR MRT)) (Max UT MRT))) (* (Min TIS MRT) NTR)) NTR)
+Tree 1:
+ (+ (+ NIQ (Max DT PT)) (+ NIQ (+ (Max UT NTR) (+ NIQ (+ (+ NIQ DT) (Max DT PT))))))
+
+Generation: 43
+SEQUENCING - Avg Rule Length: 18.454 | Variance: 67.71388399999994 | Min: 1
+SEQUENCING - Avg Feature Count: 3.91 | Variance: 2.1479000000000092 | Min: 1
+ROUTING - Avg Rule Length: 27.194 | Variance: 112.07836400000016 | Min: 1
+ROUTING - Avg Feature Count: 4.831 | Variance: 0.6624390000000006 | Min: 1
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2937.2457408547716]
+Tree 0:
+ (/ NTR (+ TIS (Min (Min (* NTR NTR) (* NTR (* (Min DT NIQ) (+ UT NIQ)))) MRT)))
+Tree 1:
+ (+ (+ (+ (+ NIQ (/ DT (- (Max DT PT) (+ NTR UT)))) (Max DT PT)) (+ NIQ (+ NIQ (+ (Max UT NTR) (Max DT PT))))) (+ NIQ DT))
+
+Generation: 44
+SEQUENCING - Avg Rule Length: 18.052 | Variance: 71.189296 | Min: 1
+SEQUENCING - Avg Feature Count: 3.864 | Variance: 2.0255039999999953 | Min: 1
+ROUTING - Avg Rule Length: 27.65 | Variance: 103.01350000000046 | Min: 1
+ROUTING - Avg Feature Count: 4.851 | Variance: 0.4427989999999965 | Min: 1
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2814.0417012105527]
+Tree 0:
+ (Min (Min NIQ (+ (Min NIQ (/ NIQ TTIQ)) (* NTR NTR))) NTR)
+Tree 1:
+ (+ (+ NIQ (+ NIQ (+ (+ NIQ (+ NIQ (Max DT PT))) DT))) (+ (+ NIQ (+ (+ NIQ DT) (+ (Max UT NTR) (Max DT PT)))) (+ NIQ (+ NIQ (Max DT PT)))))
+
+Generation: 45
+SEQUENCING - Avg Rule Length: 19.374 | Variance: 71.0721240000003 | Min: 1
+SEQUENCING - Avg Feature Count: 4.099 | Variance: 2.337199000000006 | Min: 1
+ROUTING - Avg Rule Length: 29.07 | Variance: 104.19910000000006 | Min: 1
+ROUTING - Avg Feature Count: 4.88 | Variance: 0.47560000000000807 | Min: 1
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3072.680473612998]
+Tree 0:
+ (Min (* NTR NTR) (Min (Min (Max MRT TIS) (Min (Min (* NTR NTR) (* NTR NTR)) (* NTR NTR))) MRT))
+Tree 1:
+ (+ (+ NIQ (+ NIQ (/ DT (- (Max DT PT) (+ NTR UT))))) (+ NIQ (+ (+ (Max UT NTR) (+ (+ (+ NIQ DT) (Max DT PT)) (Max DT PT))) (Max DT (Max UT NTR)))))
+
+Generation: 46
+SEQUENCING - Avg Rule Length: 19.284 | Variance: 79.7033439999999 | Min: 1
+SEQUENCING - Avg Feature Count: 4.063 | Variance: 2.343031000000013 | Min: 1
+ROUTING - Avg Rule Length: 29.86 | Variance: 84.51640000000016 | Min: 1
+ROUTING - Avg Feature Count: 4.925 | Variance: 0.4413750000000055 | Min: 1
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2963.3459392441177]
+Tree 0:
+ (Min (Min (Min NIQ (Max MRT TIS)) NTR) (Min (Max UT MRT) (Min (* NTR NTR) (Min (Max NIQ MRT) (Min MRT (Min (* NTR NTR) (* NTR NTR)))))))
+Tree 1:
+ (+ (+ (+ (+ NIQ (/ DT (- (Max DT PT) (+ NTR UT)))) (Max DT PT)) (+ (+ NIQ (+ NIQ (Max DT PT))) (+ NIQ (+ (Max UT NTR) (Max DT PT))))) (+ NIQ DT))
+
+Generation: 47
+SEQUENCING - Avg Rule Length: 19.822 | Variance: 72.8723160000004 | Min: 1
+SEQUENCING - Avg Feature Count: 4.191 | Variance: 2.4605190000000188 | Min: 1
+ROUTING - Avg Rule Length: 31.0 | Variance: 60.08 | Min: 1
+ROUTING - Avg Feature Count: 4.997 | Variance: 0.3649909999999961 | Min: 1
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [3084.2728666363196]
+Tree 0:
+ (Min (Max UT MRT) (Min (Max (Min (Min NIQ (* NTR NTR)) NTR) MRT) (Min (Min (* NTR NTR) (Min (* NTR NTR) (* NTR NTR))) MRT)))
+Tree 1:
+ (+ (+ (+ (+ NIQ (/ DT (- TWT (+ NTR UT)))) (Max (+ NIQ DT) PT)) (+ NIQ (+ NIQ (+ (Max UT NTR) (Max DT PT))))) (+ NIQ DT))
+
+Generation: 48
+SEQUENCING - Avg Rule Length: 18.664 | Variance: 64.13510400000003 | Min: 1
+SEQUENCING - Avg Feature Count: 4.096 | Variance: 2.0947839999999704 | Min: 1
+ROUTING - Avg Rule Length: 31.682 | Variance: 57.5628759999998 | Min: 1
+ROUTING - Avg Feature Count: 5.023 | Variance: 0.5044709999999867 | Min: 1
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2927.9414301516]
+Tree 0:
+ (Min (Min NIQ (+ (Min NIQ (Min (Max MRT TIS) (* NTR NTR))) (Max (Min (Max (/ TIS NTR) (* NTR NTR)) (* NTR NTR)) MRT))) NTR)
+Tree 1:
+ (+ (+ NIQ (+ NIQ (Max DT PT))) (+ (+ NIQ (+ (+ NIQ DT) (+ (Max UT NTR) (Max DT PT)))) (+ NIQ (+ NIQ (/ DT (- (Max DT PT) (+ NTR UT)))))))
+
+Generation: 49
+SEQUENCING - Avg Rule Length: 19.17 | Variance: 69.67109999999937 | Min: 1
+SEQUENCING - Avg Feature Count: 3.955 | Variance: 2.330975 | Min: 1
+ROUTING - Avg Rule Length: 32.13 | Variance: 65.14310000000027 | Min: 1
+ROUTING - Avg Feature Count: 5.075 | Variance: 0.7473750000000052 | Min: 1
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2989.834998411829]
+Tree 0:
+ (Min (* NTR NTR) (Min (- MRT (Min (Min (* NTR NTR) NIQ) (Min NIQ MRT))) (Min MRT (* NTR NTR))))
+Tree 1:
+ (+ (+ (+ (+ NIQ (/ DT (- (Max DT PT) (+ NTR UT)))) (Max DT PT)) (+ NIQ (+ NIQ (+ (Max UT NTR) (Max DT PT))))) (+ NIQ DT))
+
+Generation: 50
+SEQUENCING - Avg Rule Length: 19.826 | Variance: 73.60972400000037 | Min: 1
+SEQUENCING - Avg Feature Count: 4.217 | Variance: 2.3499110000000005 | Min: 1
+ROUTING - Avg Rule Length: 31.304 | Variance: 66.77958399999955 | Min: 1
+ROUTING - Avg Feature Count: 5.025 | Variance: 0.7803750000000101 | Min: 1
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2927.5603596902006]
+Tree 0:
+ (Min (* NTR (- (+ (* DT TIS) (Min WIQ TWT)) (/ (Max PT NIQ) (* MRT NTR)))) (Min (Min (Max MRT TIS) (Min (Min (* NTR NTR) (* NTR (* NTR NTR))) (* NTR NTR))) MRT))
+Tree 1:
+ (+ (+ NIQ (+ NIQ (Max DT PT))) (+ (+ NIQ (+ (+ NIQ DT) (+ (Max UT NTR) (Max DT PT)))) (+ NIQ (+ NIQ (/ DT (- (Max DT PT) (+ NTR UT)))))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: [2814.0417012105527]
+Tree 0:
+ (Min (Min NIQ (+ (Min NIQ (/ NIQ TTIQ)) (* NTR NTR))) NTR)
+Tree 1:
+ (+ (+ NIQ (+ NIQ (+ (+ NIQ (+ NIQ (Max DT PT))) DT))) (+ (+ NIQ (+ (+ NIQ DT) (+ (Max UT NTR) (Max DT PT)))) (+ NIQ (+ NIQ (Max DT PT)))))

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/commons-math3-3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/pshecj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/commons-math3-3.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/EJML-dense64-0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/jzlib-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/EJML-simple-0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/itext-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/jdom-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/commons-lang3-3.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fog-Computing-multiDeviceDebug/libraries/EJML-core-0.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

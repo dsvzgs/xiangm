@@ -1,0 +1,9 @@
+out/
+.idea/
+.settings/
+resources/
+test/
+*.csv
+*.pdf
+*.zip
+.Rproj.user
